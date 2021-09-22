@@ -96,6 +96,10 @@ figure:hover {
   padding: 27px 15px 0 15px;
 }
 
+.inscription a {
+  color: #0065fc;
+}
+
 .nav {
   width: 100%;
   display: flex;
